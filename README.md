@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Geowerly
-- 📚 Cursando Análise e desenvolvimento de sistemas na FIAP.
-- 🌱 Estudando: HTML, CSS, Javascript, ReactJs, React Native, Git, Java, Python, SQL.
+- 👋 Hi, I’m @Geovane
+- 📚 Studying Systems Analysis and Development at FIAP.
+- 🌱 Studying: HTML, CSS, Javascript, ReactJs, React Native, Git, Java, Python, SQL.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
